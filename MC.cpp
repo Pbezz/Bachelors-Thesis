@@ -23,7 +23,7 @@ int lcs(string a, string b){
     return dp[a.size()-1][b.size()-1];
 }
 
-//A state is a pair of bit strings, lambda0 or lambda1
+//A state is a pair of either bit strings, lambda0 or lambda1
 class State{
     public:
     string mem1,mem2;

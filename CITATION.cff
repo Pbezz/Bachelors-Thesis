@@ -2,13 +2,15 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Computations Pbezz
+title: Automated Markov Chains
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - family-names: Bezerra Roque da Costa
+  - family-names: Bezerra Costa
     name-particle: Pedro
-    email: pedrobrc2003@gmail.com
+    email: pedro.bezerra.costa@tecnico.ulisboa.pt
     affiliation: Instituto Superior Técnico
+date-released: 2023-07-12
+url: "https://github.com/Pbezz/Bachelors-Thesis.git"
